@@ -1,0 +1,107 @@
+body{
+    background-color:grey;
+    margin: 0;
+    min-height: 100vh;
+    display:flex;
+    flex-direction: column; 
+    width: auto;
+}
+header{
+    height: 123px;
+    color: white;
+    background-color:#4D253C;
+    overflow: hidden;
+    width: auto;
+    
+}
+
+#header-container{
+    width: :80%;
+    margin:auto;
+    padding-left: 70px;
+    color: white
+   overflow: hidden;
+
+}
+.col-2{
+    width: 50%;
+    float:left;
+    color: white;
+    padding-bottom: 30px;
+     margin-top:15px;
+}
+.menu{
+    padding-left: 92px;
+    margin-top:35px;
+    color: white;
+       overflow: hidden;
+}
+.menu li{
+    list-style-type: none;
+    display: inline;
+    font-size:1.6em;
+    color: white;
+    padding-right:40px;
+    float: right;
+       overflow: hidden;
+}
+h1{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 1.6em;
+}
+footer{
+    background-color:#2B4252;
+    height:300px;
+    clear: both;
+    width: auto;
+
+}
+
+.footer1{
+    width: 28%;
+    float:left;
+    color: white;
+    padding-bottom: 25px;
+    padding-left:70px;
+      overflow: hidden;
+}
+.center{
+    margin:auto;
+}
+.logo{
+       padding-right: 10px;
+     float:left;
+}
+.font4{
+    font-family: Copperplate, Papyrus, fantasy;
+    background-image: url('https://media.istockphoto.com/photos/watercolor-textured-background-picture-id887755698?k=6&m=887755698&s=612x612&w=0&h=_yEUF8gLpWjZv5IgwuWkecNVt4X4P7vpuFBKCWIuR44=');
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.font2{
+     background-image: url('https://42796r1ctbz645bo223zkcdl-wpengine.netdna-ssl.com/wp-content/uploads/2020/08/Ivory-blog-feature-image.jpg');
+    font-family: cursive;
+      color:white;
+	   background-repeat: no-repeat;
+    background-size:cover;
+}
+.font5{
+	font-family: Copperplate, Papyrus, fantasy;
+    background-image: url('https://cdn.trendhunterstatic.com/thumbs/cool-backgrounds.jpeg');
+    background-repeat: no-repeat;
+	background-size:cover;
+	
+	
+}
+	
+.image{
+      background-image: url('https://allhallowsleeds.org/wp-content/uploads/2020/02/student-graduation.png');
+       font-family: cursive;
+}
+.font3{
+    background-image: url('https://image.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg');
+      font-family: 'Brush Script MT', cursive;
+      background-size:cover;
+      background-position: center;
+
+}
